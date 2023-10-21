@@ -2,7 +2,7 @@
 # Praktikum-PAM
 ## Tugas Tugas Prak PAM
 
-- Nama  : Mochammad Rizky Ramadhani
-- NIM   : 1217050081
+- Nama  : Muhammad Dzikri
+- NIM   : 1217050090
 - Kelas : G
 
