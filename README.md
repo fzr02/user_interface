@@ -1,8 +1,7 @@
 
-# Praktikum-PAM
-## Tugas Tugas Prak PAM
+Tugas Prak PAM User Interface
 
-- Nama  : Muhammad Dzikri
-- NIM   : 1217050090
-- Kelas : G
+Nama  : Muhammad Faiz Robbany
+NIM   : 1217050092
+Kelas : G
 
